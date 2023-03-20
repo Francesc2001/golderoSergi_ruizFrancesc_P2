@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/projectpesca/golderoSergi_ruizFrancesc_P2/MyProject2/Content/recullir.uasset",
+				"D:/projectpesca/golderoSergi_ruizFrancesc_P2/MyProject2/Content/UI/Interfaz.uasset",
+				"D:/projectpesca/golderoSergi_ruizFrancesc_P2/MyProject2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/projectpesca/golderoSergi_ruizFrancesc_P2/MyProject2/Content/UI/pauseMenu.uasset",
 				"D:/ProyectoUnreal/golderoSergi_ruizFrancesc_P2/MyProject2/Content/UI/Interfaz.uasset",
 				"D:/ProyectoUnreal/golderoSergi_ruizFrancesc_P2/MyProject2/Content/UI/Pez.uasset",
 				"D:/ProyectoUnreal/golderoSergi_ruizFrancesc_P2/MyProject2/Content/UI/Pez_Mat.uasset",
